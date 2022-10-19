@@ -1,2 +1,2 @@
 # printf
-ALX printf library project
+ALX printf library group project (Romeo and Thabo)
